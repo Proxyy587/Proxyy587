@@ -12,20 +12,16 @@ Hi 👋 I'm Abhijit aka Proxy (internet nickname), I code sometimes ideally.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Proxyy587&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proxyy587&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### STATS
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Proxyy587&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3IfpT667bXajY8fuWdT0WMiqjxnfG_KedIw&s' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Proxyy587&icon=9&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 BUY ME A COFFEE PLS I NEED IT LLLLL
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yosuprky) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
