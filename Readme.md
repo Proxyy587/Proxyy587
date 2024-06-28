@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Abhijit aka Proxy (internet nickname), I develop webapps and code sometimes ideally.<br><br>
+Hi 👋 I'm Abhijit aka Proxy (internet nickname), I develop webapps and code sometimes.<br><br>
 
 
 ## 🌐 Socials:
