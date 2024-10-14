@@ -49,13 +49,6 @@ Hi 👋 I'm **Abhijeet** aka **Proxy** (internet nickname). I develop webapps an
 
 ---
 
-<div align="center">
-  
-## 💬 Quote of the Day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## ☕️ Support Me:
 If you enjoy my work, consider buying me a coffee!
 
